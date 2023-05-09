@@ -24,7 +24,7 @@ body {
 }
 
 .menuPrincipal li a:hover {
-    background: #33BDD1; 
+    background: #33bdd1; 
 }
 
 #figura { 
@@ -49,11 +49,11 @@ float: left;
 }
 
 .botonEnviar:active {
-    background: #33BDD1; 
+    background: #33bdd1; 
 }
 
 #CalcularFigura1 {
-    background-color: #33BDD1;
+    background-color: #33bdd1;
     color: white;
     width: 1300px;
     padding: 20px;
@@ -63,7 +63,7 @@ float: left;
 h2 {
     font-family: verdana;
     background: #33BDD1 ;
-    border: #33BDD1 15px solid;
+    border: #33ndd1 15px solid;
     color: white;
     border-radius: 20px;
     text-align: center 
