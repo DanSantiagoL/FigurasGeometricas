@@ -1,5 +1,5 @@
 body {
-    font-family: Verdana;
+    font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;;
     background: #e6fbfe; 
 }
 
@@ -40,7 +40,7 @@ float: left;
 }
  
 .botonEnviar {
-    font-family: Verdana;
+    font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;;
     font-size:15px;
     color: white;
     width: 100px;
@@ -61,7 +61,7 @@ float: left;
 }
 
 h2 {
-    font-family: verdana;
+    font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;;
     background: #33BDD1 ;
     border: #33ndd1 15px solid;
     color: white;
